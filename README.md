@@ -5,7 +5,7 @@
 
 ## 사진
  사진입니다.
-![Alt text](.png)
+![Alt text](sudal.png)
 
 
 ## 동영상
