@@ -18,7 +18,7 @@
 
 ## 과제
 
-###### [과제1](https://youtu.be/zt0tY9HT5Yw)
+###### [과제1] (https://youtu.be/zt0tY9HT5Yw)
  
 
 
