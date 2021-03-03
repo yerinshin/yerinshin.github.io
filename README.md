@@ -4,7 +4,8 @@
 <br>
 
 ## 사진
- 사진입니다.
+귀여운 수달이
+<br>
 ![Alt text](sudal.png)
 
 
