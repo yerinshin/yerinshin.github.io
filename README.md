@@ -11,9 +11,7 @@
 
 ## 동영상
  동영상입니다.
-<div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S8baeh8OyR0?autoplay=1" frameborder="0"></iframe>
-<div>
+[![BTS DNA Youtube](https://img.youtube.com/vi/MBdVXkSdhwU/0.jpg)](https://www.youtube.com/watch?v=MBdVXkSdhwU)
 
 ## Reference
 ###[검색하기] (https://naver.com)
