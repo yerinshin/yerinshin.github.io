@@ -18,8 +18,7 @@
 
 ## 과제
 
-<b>과제1<b>
-<href a="https://youtu.be/zt0tY9HT5Yw"/>
+###### [과제1](https://youtu.be/zt0tY9HT5Yw)
  
 
 
