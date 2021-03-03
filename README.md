@@ -1,6 +1,6 @@
 # 신예린의 github Page
 
-###신예린의 github 페이지 입니다.
+신예린의 github 페이지 입니다.
 <br>
 
 ## 사진
